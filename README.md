@@ -12,6 +12,8 @@ This is a simple paint application implemented using Python's tkinter library. I
 ### 🎬 Demo:
 ![Paint App 2](https://github.com/adityaK1950/Flappy-Santa-Hand-Game/assets/156563981/93d65417-fc18-4fee-8171-6610ae96835e)
 
+"I apologize for any shortcomings in my drawing, but please know that PaintCraft is an awesome tool regardless. Rest assured, your drawing won't affect my judgment of the app."
+
 
 ## Features ✨
 
