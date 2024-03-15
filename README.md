@@ -71,7 +71,7 @@ sudo apt install python3-tk
 ```
 git clone https://github.com/adityaK1950/Microsoft-Paint-Clone-PaintCraft.git
 ```
-***OR*** direct zip [file]()
+***OR*** direct zip [file](https://github.com/adityaK1950/Microsoft-Paint-Clone-PaintCraft)
 
 
 ## Usage ✍ 
