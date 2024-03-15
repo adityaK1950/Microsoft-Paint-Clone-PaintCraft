@@ -1,4 +1,4 @@
-# Paint App 🎨 🖌️
+# PaintCraft The Paint App 🎨 🖌️
 
 ## Overview 📖
 
