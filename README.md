@@ -36,7 +36,8 @@ pip install tk
 ```
 3. **Clone the Repository**: Use the following command to clone the repository:
 ```
-git clone https://github.com/your-username/paint-app.git
+git clone https://github.com/adityaK1950/Microsoft-Paint-Clone-PaintCraft.git
+
 ```
 ***OR*** direct zip [file]()
 
